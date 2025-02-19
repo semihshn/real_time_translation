@@ -1,0 +1,8 @@
+SpeechRecognition
+transformers
+pyaudio
+torch
+torchvision
+torchaudio
+sentencepiece
+keyboard
