@@ -6,3 +6,4 @@ torchvision
 torchaudio
 sentencepiece
 keyboard
+pynput
